@@ -1,7 +1,7 @@
 # 💫 About Me:
-25 years of experience! :)
-I'm currently working at Doctoralia.
-Ask me about Golang, PHP, Laravel, Docker, Git, and how I can help you!
+- 25 years of experience! :)
+- I'm currently working at Doctoralia.
+- Ask me about Golang, PHP, Laravel, Docker, Git, and how I can help you!
 
 
 ## 🌐 Socials:
