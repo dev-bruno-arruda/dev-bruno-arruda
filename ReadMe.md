@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 25 years of experience :relaxed: e apaixonado por tecnologia!!!
+- 25 years of experience :relaxed: and passionate about technology!!!
 - I'm currently working at Doctoralia.
 - Ask me about Golang, PHP, Laravel, Python, Docker, Git, and how I can help you!
 
